@@ -8,6 +8,7 @@ public class L06SpringBootMvcDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(L06SpringBootMvcDemoApplication.class, args);
+
     }
 
 }
